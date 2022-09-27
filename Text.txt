@@ -19,3 +19,5 @@ new22
 reset test 1
 
 reset test 2
+
+reset test 3
