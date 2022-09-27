@@ -23,3 +23,4 @@ reset test 3
 reset test 4
 
 reset test 5
+reset test 6
