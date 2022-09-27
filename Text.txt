@@ -20,3 +20,4 @@ reset test 1
 
 
 reset test 3
+reset test 4
